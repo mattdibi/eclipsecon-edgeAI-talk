@@ -1,4 +1,4 @@
-# Notebook guid
+# Notebook guide
 
 ## Environment setup
 
