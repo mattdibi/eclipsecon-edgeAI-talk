@@ -1,4 +1,4 @@
-# EclipseCON EdgeAI talk
+# EclipseCON 2022 Talk: "_How to Train Your Dragon and Its Friends: AI on the Edge with Eclipse Kura_"
 
 ## Description
 
