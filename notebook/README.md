@@ -34,4 +34,10 @@ You can then open the notebook with:
 jupyter notebook
 ```
 
+or with:
+
+```bash
+jupyter-lab
+```
+
 More info on the [official documentation](https://docs.jupyter.org/en/latest/)
