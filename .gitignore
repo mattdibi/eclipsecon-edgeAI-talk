@@ -7,3 +7,4 @@
 
 # Tensorflow saved model
 saved_model
+tf_autoencoder_fp32

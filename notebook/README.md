@@ -41,3 +41,13 @@ jupyter-lab
 ```
 
 More info on the [official documentation](https://docs.jupyter.org/en/latest/)
+
+## Presentation mode
+
+Run the Jupyter Lab server with
+
+```bash
+jupyter-lab
+```
+
+and then connect to: [http://localhost:8888/notebooks/AD-EdgeAI.ipynb#Edge-AI-Anomaly-Detection](http://localhost:8888/notebooks/AD-EdgeAI.ipynb#Edge-AI-Anomaly-Detection)
