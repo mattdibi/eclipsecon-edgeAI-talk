@@ -42,6 +42,10 @@ jupyter-lab
 
 More info on the [official documentation](https://docs.jupyter.org/en/latest/)
 
+## Google Colab
+
+Run this notebook in Google Colab using the following link: [Anomaly Detection on the Edge Colab](https://colab.research.google.com/github/mattdibi/eclipsecon-edgeAI-talk/blob/master/notebook/AD-EdgeAI.ipynb)
+
 ## Presentation mode
 
 Run the Jupyter Lab server with
