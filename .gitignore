@@ -7,4 +7,5 @@
 
 # Tensorflow saved model
 saved_model
-tf_autoencoder_fp32
+notebook/tf_autoencoder_fp32
+notebook/models/tf_autoencoder_fp32/1/model.savedmodel
